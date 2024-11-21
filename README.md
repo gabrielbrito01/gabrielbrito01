@@ -1,4 +1,4 @@
-# Gabriel Brito! 
+# Gabriel Brito 
 
 ## 👨‍💻 Sobre mim:
  **Back-End:** Python, JavaScript, TypeScript.  
@@ -14,6 +14,10 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+## 📈 Estatísticas do GitHub:
+![Gabriel Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbrito01&show_icons=true&theme=radical)
+
 
 
 
