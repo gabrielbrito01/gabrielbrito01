@@ -1,7 +1,4 @@
-# Gabriel Brito 
-
- **Back-End:** Python, JavaScript, TypeScript.  
- **Front-End:** React Native, HTML, CSS.  
+# Gabriel Brito  
 ---
 
 ### Back-End:
@@ -16,7 +13,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbrito01&layout=compact&theme=radical)
 
+---
 
-
-
+## 🌐 Como me encontrar:
+- 📧 **Email:** [gabriel.brito@email.com](mailto:gabrielbr.albuquerque@gmail.com)
+- 📸 **Instagram:** [@gabrielbrito01](https://instagram.com/g_brito12)
 
