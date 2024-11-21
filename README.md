@@ -15,7 +15,7 @@
 
 ---
 
-## 🌐 Como me encontrar:
+## 🌐 Contato:
 - 📧 **Email:** [gabrielbr.albuquerque@gmail.com](mailto:gabrielbr.albuquerque@gmail.com)
 - 📸 **Instagram:** [@g_brito12](https://instagram.com/g_brito12)
 
