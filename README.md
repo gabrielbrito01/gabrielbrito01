@@ -16,6 +16,5 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
 
-## 📈 Estatísticas do GitHub:
-![Gabriel Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Brito&show_icons=true&theme=radical)
+
 
