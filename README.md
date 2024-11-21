@@ -1,6 +1,5 @@
 # Gabriel Brito 
 
-## 👨‍💻 Sobre mim:
  **Back-End:** Python, JavaScript, TypeScript.  
  **Front-End:** React Native, HTML, CSS.  
 ---
@@ -15,7 +14,6 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-## 📊 Linguagens mais usadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbrito01&layout=compact&theme=radical)
 
 
