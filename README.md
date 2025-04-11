@@ -18,8 +18,6 @@
 
 ## 📊 Estatísticas e Commits
 
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=gabrielbrito01&theme=github)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbrito01&show_icons=true&theme=radical)
 
 ---
