@@ -16,12 +16,6 @@
 
 ---
 
-## 📊 Estatísticas e Commits
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbrito01&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Contato:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbr.albuquerque@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/g_brito12)
